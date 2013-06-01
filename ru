@@ -4,8 +4,7 @@ Ttitle="Almohazzem $mo_ver"
 T_ok="OK"
 T_cancel="Cancel"
 #---About---
-T_welcome="
-بسم الله الرحمن الرحيم
+T_welcome="Добро пожаловать"
 
 Thank Allah to help me to write this program .
 
