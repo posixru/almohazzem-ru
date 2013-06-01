@@ -2,7 +2,7 @@ AlmasaLanguageSystem_Name=Русский
 T_lang_select="Выбор языка"
 Ttitle="Almohazzem $mo_ver"
 T_ok="OK"
-T_cancel="Cancel"
+T_cancel="Закрыть"
 #---About---
 T_welcome="Добро пожаловать"
 
